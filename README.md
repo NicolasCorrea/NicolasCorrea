@@ -1,3 +1,6 @@
+[![logo-nicolas.png](https://i.postimg.cc/j2hD7w6L/logo-nicolas.png)](https://postimg.cc/PvPfGqRj)
+
+
 ```json
 {
   "job": "Full-stack Developer",
