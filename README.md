@@ -35,6 +35,7 @@
       "job": "Practicing",
       "company": "EPM",
       "description": "Development Practitioner",
+      "since_to": "2018/06-2018/12"
     },
     {
       "job": "Developer Junior",
