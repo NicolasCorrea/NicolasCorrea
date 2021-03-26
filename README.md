@@ -56,6 +56,12 @@
        Migration of platforms with new technologies and best practices",
        "since_to": "2020/07-2021/02"
     },
+    {
+      "job": "Backend Developer",
+      "company": "Ressolve",
+      "description": "Backend developer in NodeJs",
+       "since_to": "2021/03-currently"
+    },
   ]
 }
 ```
