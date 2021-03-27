@@ -5,7 +5,7 @@
 {
   "job": "Full-stack Developer",
   "current_company": "Integ.ro",
-  "skills": {
+  "skills": { 
     "tecnichal_skills": [
       {
         "name": "NodeJS",
@@ -31,7 +31,8 @@
         "name": "GIT",
         "experience": "3 Years"
       },
-    ]
+    ],
+    "soft_skills": ["Adaptability", "Communication", "Teamwork", "Creative thinking"]
   },
   "work_experience": [
     {
