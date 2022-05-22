@@ -3,12 +3,12 @@
 ```json
 {
   "job": "Full-stack Developer",
-  "current_company": "Integ.ro",
+  "current_company": "Kualty",
   "skills": { 
     "tecnichal_skills": [
       {
         "name": "NodeJS",
-        "experience": "2 Years",
+        "experience": "3 Years",
         "frameworks": ["Express", "AdonisJs"]
       },
       {
@@ -18,17 +18,21 @@
       },
       {
         "name": "JavaScript",
-        "experience": "3 Years",
-        "frameworks": ["Angular7+", "React"]
+        "experience": "4 Years",
+        "frameworks": ["React", "Angular7+" ]
       },
       {
         "name": "SQL",
-        "experience": "3 Years",
-        "engines": ["MySql", "MariaDB", "Postgrest", "SQL Server", "Mongo"]
+        "experience": "4 Years",
+        "engines": ["MySql", "MariaDB", "PostgreSQL", "SQL Server", "Mongo"]
       },
       {
         "name": "GIT",
-        "experience": "3 Years"
+        "experience": "4 Years"
+      },
+      {
+        "name": "AWS",
+        "experience": "1 Year"
       },
     ],
     "soft_skills": ["Adaptability", "Communication", "Teamwork", "Creative thinking"]
@@ -59,8 +63,16 @@
     {
       "job": "Backend Developer",
       "company": "Ressolve",
-      "description": "Backend developer in NodeJs",
-       "since_to": "2021/03-currently"
+      "description": "Backend developer in NodeJs, integrating aws services\n
+      with the company's products",
+       "since_to": "2021/03-2022/04"
+    },
+    {
+      "job": "FullStack Developer",
+      "company": "Kualty",
+      "description": "FullStack developer in React and Node\n
+      offering consulting, maintaining and developing new features",
+       "since_to": "2022/04-currently"
     },
   ]
 }
