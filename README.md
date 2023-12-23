@@ -72,7 +72,7 @@
       "company": "Kualty",
       "description": "FullStack developer in React and Node\n
       offering consulting, maintaining and developing new features",
-       "since_to": "2022/04-currently"
+       "since_to": "2022/04-2023/06"
     },
   ]
 }
