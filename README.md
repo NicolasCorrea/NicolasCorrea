@@ -8,7 +8,7 @@
     "tecnichal_skills": [
       {
         "name": "NodeJS",
-        "experience": "3 Years",
+        "experience": "6 Years",
         "frameworks": ["Express", "AdonisJs"]
       },
       {
@@ -18,21 +18,21 @@
       },
       {
         "name": "JavaScript",
-        "experience": "4 Years",
+        "experience": "6 Years",
         "frameworks": ["React", "Angular7+" ]
       },
       {
         "name": "SQL",
-        "experience": "4 Years",
+        "experience": "6 Years",
         "engines": ["MySql", "MariaDB", "PostgreSQL", "SQL Server", "Mongo"]
       },
       {
         "name": "GIT",
-        "experience": "4 Years"
+        "experience": "6 Years"
       },
       {
         "name": "AWS",
-        "experience": "1 Year"
+        "experience": "3 Year"
       },
     ],
     "soft_skills": ["Adaptability", "Communication", "Teamwork", "Creative thinking"]
